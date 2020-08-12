@@ -6,4 +6,8 @@ A system for monitoring vehicles which includes
 3.extracting bangla text from the number plate
 4.Sending it to a database and being able to search from a website the last location and time of a vehicle.
 
+## Project Video
+
+<https://github.com/ishmam367/Vehcle-Monitoring-System-BLPR-/blob/master/final.mp4>
+
 
